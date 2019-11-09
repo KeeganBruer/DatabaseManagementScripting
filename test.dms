@@ -1,0 +1,3 @@
+variable = getDataBase("URL", "BURL");
+test = getItem("goorl", "moored", "greet");
+multi = 1 * 2;
